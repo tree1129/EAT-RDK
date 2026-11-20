@@ -1,0 +1,11 @@
+{
+  "name": "eat-rdk",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Visual feeding simulation and RDK X5 integration baseline",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "generate": "node integrations/d455/generate_feeding_library.mjs"
+  },
+  "engines": {"node": ">=18"}
+}

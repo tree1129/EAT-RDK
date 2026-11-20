@@ -1,0 +1,13 @@
+.DS_Store
+._*
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.log
+*.pid
+*.download
+web/vendor/face/
+recordings/
+private/

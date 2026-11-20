@@ -1,0 +1,1606 @@
+{
+  "count": 100,
+  "checks": "all samples and midpoints",
+  "trajectories": [
+    {
+      "id": "F001",
+      "endpoint_m": [
+        0.10059393973508779,
+        0.14775558135753822,
+        0.36723979435055365
+      ],
+      "duration_s": 59.49999999999999,
+      "horizontal_max_tilt_deg": 1.591707544291596e-10,
+      "transport_max_speed_m_s": 0.029879098805490223,
+      "transport_max_joint_speed_deg_s": 10.053781926317479,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F002",
+      "endpoint_m": [
+        0.08213310621570284,
+        0.14775558135755182,
+        0.37366537440583336
+      ],
+      "duration_s": 59.49999999999999,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029928539605891893,
+      "transport_max_joint_speed_deg_s": 10.053781926317479,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F003",
+      "endpoint_m": [
+        0.06288435580064725,
+        0.147755581357556,
+        0.37706773545900735
+      ],
+      "duration_s": 59.4,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.02993429976627472,
+      "transport_max_joint_speed_deg_s": 10.078006889071899,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F004",
+      "endpoint_m": [
+        0.04333940615877068,
+        0.14775558135755068,
+        0.3773599627229035
+      ],
+      "duration_s": 59.2,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.02989730209901276,
+      "transport_max_joint_speed_deg_s": 10.126575221863138,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F005",
+      "endpoint_m": [
+        0.10069605466152753,
+        0.1629851921800973,
+        0.3678673535256363
+      ],
+      "duration_s": 57.599999999999994,
+      "horizontal_max_tilt_deg": 1.593587859065422e-10,
+      "transport_max_speed_m_s": 0.029863623595348478,
+      "transport_max_joint_speed_deg_s": 10.048007368803713,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F006",
+      "endpoint_m": [
+        0.08223522114214249,
+        0.16298519218011095,
+        0.3742929335809158
+      ],
+      "duration_s": 57.599999999999994,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.0299188161535806,
+      "transport_max_joint_speed_deg_s": 10.048007368803713,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F007",
+      "endpoint_m": [
+        0.06298647072708684,
+        0.16298519218011523,
+        0.3776952946340894
+      ],
+      "duration_s": 57.49999999999999,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029925713577130895,
+      "transport_max_joint_speed_deg_s": 10.073126222572967,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F008",
+      "endpoint_m": [
+        0.04344152108521026,
+        0.16298519218010996,
+        0.3779875218979852
+      ],
+      "duration_s": 57.3,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029883901775378315,
+      "transport_max_joint_speed_deg_s": 10.1239988715346,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F009",
+      "endpoint_m": [
+        0.10057791727673424,
+        0.17821031063778547,
+        0.3671413264664167
+      ],
+      "duration_s": 55.7,
+      "horizontal_max_tilt_deg": 1.594649631804306e-10,
+      "transport_max_speed_m_s": 0.029848031644873433,
+      "transport_max_joint_speed_deg_s": 10.041389490469207,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F010",
+      "endpoint_m": [
+        0.08211708375734911,
+        0.17821031063779919,
+        0.37356690652169583
+      ],
+      "duration_s": 55.7,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.02990819586720877,
+      "transport_max_joint_speed_deg_s": 10.041389490469207,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F011",
+      "endpoint_m": [
+        0.06286833334229339,
+        0.1782103106378035,
+        0.37696926757486904
+      ],
+      "duration_s": 55.599999999999994,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029915172910513856,
+      "transport_max_joint_speed_deg_s": 10.06802312173325,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F012",
+      "endpoint_m": [
+        0.04332338370041679,
+        0.17821031063779827,
+        0.3772614948387645
+      ],
+      "duration_s": 55.4,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029870049530881407,
+      "transport_max_joint_speed_deg_s": 10.121433885241277,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F013",
+      "endpoint_m": [
+        0.10024048384778303,
+        0.19330769649195814,
+        0.36506759002359296
+      ],
+      "duration_s": 53.7,
+      "horizontal_max_tilt_deg": 1.5948746826811544e-10,
+      "transport_max_speed_m_s": 0.029915964893352846,
+      "transport_max_joint_speed_deg_s": 10.062085228668085,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F014",
+      "endpoint_m": [
+        0.08177965032839776,
+        0.19330769649197185,
+        0.3714931700788718
+      ],
+      "duration_s": 53.8,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.02989678082225188,
+      "transport_max_joint_speed_deg_s": 10.03436755232262,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F015",
+      "endpoint_m": [
+        0.06253089991334197,
+        0.19330769649197618,
+        0.37489553113204466
+      ],
+      "duration_s": 53.7,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029904060825589815,
+      "transport_max_joint_speed_deg_s": 10.062085228668085,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F016",
+      "endpoint_m": [
+        0.04298595027146539,
+        0.19330769649197097,
+        0.3751877583959397
+      ],
+      "duration_s": 53.49999999999999,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029854374299770295,
+      "transport_max_joint_speed_deg_s": 10.118295662600422,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F017",
+      "endpoint_m": [
+        0.09968648574102915,
+        0.2081551434398697,
+        0.361662930127259
+      ],
+      "duration_s": 51.8,
+      "horizontal_max_tilt_deg": 1.5942682536220234e-10,
+      "transport_max_speed_m_s": 0.029906050059556443,
+      "transport_max_joint_speed_deg_s": 10.055813201616637,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F018",
+      "endpoint_m": [
+        0.08122565222164375,
+        0.2081551434398834,
+        0.3680885101825374
+      ],
+      "duration_s": 51.900000000000006,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029884519474072183,
+      "transport_max_joint_speed_deg_s": 10.026239131545259,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F019",
+      "endpoint_m": [
+        0.06197690180658791,
+        0.2081551434398877,
+        0.3714908712357099
+      ],
+      "duration_s": 51.8,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029890404131774004,
+      "transport_max_joint_speed_deg_s": 10.055813201616637,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F020",
+      "endpoint_m": [
+        0.042431952164711316,
+        0.20815514343988248,
+        0.37178309849960456
+      ],
+      "duration_s": 51.599999999999994,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029837848700539255,
+      "transport_max_joint_speed_deg_s": 10.115138846892888,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F021",
+      "endpoint_m": [
+        0.07810542278919796,
+        0.1477555813574281,
+        0.3723168964359377
+      ],
+      "duration_s": 59.2,
+      "horizontal_max_tilt_deg": 1.688793680636325e-10,
+      "transport_max_speed_m_s": 0.029895182317831434,
+      "transport_max_joint_speed_deg_s": 10.126575221863138,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F022",
+      "endpoint_m": [
+        0.05919013417361438,
+        0.1477555813574395,
+        0.37724663373790723
+      ],
+      "duration_s": 59.3,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.02991488177014964,
+      "transport_max_joint_speed_deg_s": 10.102115930279991,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F023",
+      "endpoint_m": [
+        0.039731048273356676,
+        0.14775558135744266,
+        0.37909985504246047
+      ],
+      "duration_s": 59.3,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029891061809907603,
+      "transport_max_joint_speed_deg_s": 10.102115930279991,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F024",
+      "endpoint_m": [
+        0.02022525586837163,
+        0.14775558135743752,
+        0.3778292190084667
+      ],
+      "duration_s": 59.099999999999994,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029896309263914476,
+      "transport_max_joint_speed_deg_s": 10.150916907756535,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F025",
+      "endpoint_m": [
+        0.07815705992268757,
+        0.16298519217998694,
+        0.37295060897556803
+      ],
+      "duration_s": 57.3,
+      "horizontal_max_tilt_deg": 1.6905186605812157e-10,
+      "transport_max_speed_m_s": 0.029881027674122162,
+      "transport_max_joint_speed_deg_s": 10.1239988715346,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F026",
+      "endpoint_m": [
+        0.0592417713071039,
+        0.16298519217999838,
+        0.3778803462775372
+      ],
+      "duration_s": 57.4,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029905307391955193,
+      "transport_max_joint_speed_deg_s": 10.098626626124357,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F027",
+      "endpoint_m": [
+        0.03978268540684615,
+        0.16298519218000163,
+        0.3797335675820901
+      ],
+      "duration_s": 57.4,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029881254639325193,
+      "transport_max_joint_speed_deg_s": 10.098626626124357,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F028",
+      "endpoint_m": [
+        0.02027689300186114,
+        0.16298519217999655,
+        0.37846293154809607
+      ],
+      "duration_s": 57.2,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029884103444023504,
+      "transport_max_joint_speed_deg_s": 10.149758476981015,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F029",
+      "endpoint_m": [
+        0.07809732060619815,
+        0.17821031063767537,
+        0.37221746305117
+      ],
+      "duration_s": 55.4,
+      "horizontal_max_tilt_deg": 1.6914927254078458e-10,
+      "transport_max_speed_m_s": 0.029867297002911828,
+      "transport_max_joint_speed_deg_s": 10.121433885241277,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F030",
+      "endpoint_m": [
+        0.05918203199061438,
+        0.17821031063768686,
+        0.3771472003531388
+      ],
+      "duration_s": 55.49999999999999,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029894912798303377,
+      "transport_max_joint_speed_deg_s": 10.094516557496418,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F031",
+      "endpoint_m": [
+        0.03972294609035662,
+        0.17821031063769013,
+        0.3790004216576913
+      ],
+      "duration_s": 55.49999999999999,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029869773848040758,
+      "transport_max_joint_speed_deg_s": 10.094516557496418,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F032",
+      "endpoint_m": [
+        0.020217153685371615,
+        0.1782103106376851,
+        0.37772978562369697
+      ],
+      "duration_s": 55.3,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029871711080805254,
+      "transport_max_joint_speed_deg_s": 10.148208774273398,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F033",
+      "endpoint_m": [
+        0.07792668840165676,
+        0.19330769649184887,
+        0.3701233931373376
+      ],
+      "duration_s": 53.49999999999999,
+      "horizontal_max_tilt_deg": 1.691697162159248e-10,
+      "transport_max_speed_m_s": 0.029853486590049386,
+      "transport_max_joint_speed_deg_s": 10.118295662600422,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F034",
+      "endpoint_m": [
+        0.059011399786072914,
+        0.19330769649186036,
+        0.3750531304393061
+      ],
+      "duration_s": 53.599999999999994,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029883849157148187,
+      "transport_max_joint_speed_deg_s": 10.090268744688059,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F035",
+      "endpoint_m": [
+        0.039552313885815114,
+        0.19330769649186366,
+        0.3769063517438582
+      ],
+      "duration_s": 53.599999999999994,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029857710411203886,
+      "transport_max_joint_speed_deg_s": 10.090268744688059,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F036",
+      "endpoint_m": [
+        0.020046521480830137,
+        0.1933076964918586,
+        0.3756357157098635
+      ],
+      "duration_s": 53.4,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029858276430399452,
+      "transport_max_joint_speed_deg_s": 10.146796271172814,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F037",
+      "endpoint_m": [
+        0.07764654449724048,
+        0.2081551434397618,
+        0.3666853497541369
+      ],
+      "duration_s": 51.599999999999994,
+      "horizontal_max_tilt_deg": 1.691142619984152e-10,
+      "transport_max_speed_m_s": 0.029841029794835567,
+      "transport_max_joint_speed_deg_s": 10.115138846892888,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F038",
+      "endpoint_m": [
+        0.05873125588165653,
+        0.20815514343977326,
+        0.371615087056105
+      ],
+      "duration_s": 51.7,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.02987163892152002,
+      "transport_max_joint_speed_deg_s": 10.08521429573072,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F039",
+      "endpoint_m": [
+        0.03927216998139868,
+        0.20815514343977654,
+        0.3734683083606568
+      ],
+      "duration_s": 51.7,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029843467356563895,
+      "transport_max_joint_speed_deg_s": 10.08521429573072,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F040",
+      "endpoint_m": [
+        0.01976637757641374,
+        0.2081551434397715,
+        0.37219767232666173
+      ],
+      "duration_s": 51.5,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029845199146701556,
+      "transport_max_joint_speed_deg_s": 10.144887342265141,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F041",
+      "endpoint_m": [
+        0.055283095665915855,
+        0.14775558135731637,
+        0.37558059750816974
+      ],
+      "duration_s": 58.99999999999999,
+      "horizontal_max_tilt_deg": 1.8228638027222817e-10,
+      "transport_max_speed_m_s": 0.029930364135948913,
+      "transport_max_joint_speed_deg_s": 10.175613944640029,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F042",
+      "endpoint_m": [
+        0.03603434525086033,
+        0.1477555813573261,
+        0.3789829585613437
+      ],
+      "duration_s": 59.2,
+      "horizontal_max_tilt_deg": 1.6790683933580827e-10,
+      "transport_max_speed_m_s": 0.029920150154809807,
+      "transport_max_joint_speed_deg_s": 10.126575221863138,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F043",
+      "endpoint_m": [
+        0.01648939560898369,
+        0.14775558135732886,
+        0.3792751858252398
+      ],
+      "duration_s": 59.3,
+      "horizontal_max_tilt_deg": 1.5898786089687727e-10,
+      "transport_max_speed_m_s": 0.02986666025511282,
+      "transport_max_joint_speed_deg_s": 10.102115930279991,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F044",
+      "endpoint_m": [
+        -0.002852469053287265,
+        0.1477555813573245,
+        0.37644981422779467
+      ],
+      "duration_s": 59.099999999999994,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029914340497053563,
+      "transport_max_joint_speed_deg_s": 10.150916907756535,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F045",
+      "endpoint_m": [
+        0.055283924705017654,
+        0.16298519217987495,
+        0.37621640981470483
+      ],
+      "duration_s": 57.099999999999994,
+      "horizontal_max_tilt_deg": 1.8244588023838637e-10,
+      "transport_max_speed_m_s": 0.029918043025022184,
+      "transport_max_joint_speed_deg_s": 10.175387967607218,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F046",
+      "endpoint_m": [
+        0.03603517428996205,
+        0.16298519217988475,
+        0.37961877086787843
+      ],
+      "duration_s": 57.3,
+      "horizontal_max_tilt_deg": 1.6802337809084243e-10,
+      "transport_max_speed_m_s": 0.02991069399385228,
+      "transport_max_joint_speed_deg_s": 10.1239988715346,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F047",
+      "endpoint_m": [
+        0.01649022464808541,
+        0.16298519217988758,
+        0.3799109981317742
+      ],
+      "duration_s": 57.3,
+      "horizontal_max_tilt_deg": 1.5886534540195799e-10,
+      "transport_max_speed_m_s": 0.029931118428707486,
+      "transport_max_joint_speed_deg_s": 10.1239988715346,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F048",
+      "endpoint_m": [
+        -0.0028516400141854956,
+        0.1629851921798833,
+        0.37708562653432875
+      ],
+      "duration_s": 57.2,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.02990347642046193,
+      "transport_max_joint_speed_deg_s": 10.149758476981015,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F049",
+      "endpoint_m": [
+        0.055282965584590435,
+        0.17821031063756368,
+        0.3754808346571068
+      ],
+      "duration_s": 55.2,
+      "horizontal_max_tilt_deg": 1.8253617325912312e-10,
+      "transport_max_speed_m_s": 0.029905922658326516,
+      "transport_max_joint_speed_deg_s": 10.175414355500132,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F050",
+      "endpoint_m": [
+        0.03603421516953478,
+        0.17821031063757356,
+        0.37888319571028006
+      ],
+      "duration_s": 55.4,
+      "horizontal_max_tilt_deg": 1.6809159823527009e-10,
+      "transport_max_speed_m_s": 0.029901215873539187,
+      "transport_max_joint_speed_deg_s": 10.121433885241277,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F051",
+      "endpoint_m": [
+        0.016489265527658125,
+        0.1782103106375764,
+        0.37917542297417545
+      ],
+      "duration_s": 55.4,
+      "horizontal_max_tilt_deg": 1.5874427246735529e-10,
+      "transport_max_speed_m_s": 0.02992328768754817,
+      "transport_max_joint_speed_deg_s": 10.121433885241277,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F052",
+      "endpoint_m": [
+        -0.0028525991346127298,
+        0.17821031063757217,
+        0.3763500513767296
+      ],
+      "duration_s": 55.3,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.02989291541588299,
+      "transport_max_joint_speed_deg_s": 10.148208774273398,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F053",
+      "endpoint_m": [
+        0.05528022606826713,
+        0.19330769649173798,
+        0.3733798261734805
+      ],
+      "duration_s": 53.3,
+      "horizontal_max_tilt_deg": 1.8255519876006126e-10,
+      "transport_max_speed_m_s": 0.029894139775016974,
+      "transport_max_joint_speed_deg_s": 10.175137634795279,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F054",
+      "endpoint_m": [
+        0.036031475653211395,
+        0.19330769649174787,
+        0.37678218722665335
+      ],
+      "duration_s": 53.49999999999999,
+      "horizontal_max_tilt_deg": 1.6810516063093982e-10,
+      "transport_max_speed_m_s": 0.02989009271392244,
+      "transport_max_joint_speed_deg_s": 10.118295662600422,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F055",
+      "endpoint_m": [
+        0.016486526011334747,
+        0.19330769649175072,
+        0.37707441449054835
+      ],
+      "duration_s": 53.49999999999999,
+      "horizontal_max_tilt_deg": 1.5860566645332876e-10,
+      "transport_max_speed_m_s": 0.029914076050395255,
+      "transport_max_joint_speed_deg_s": 10.118295662600422,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F056",
+      "endpoint_m": [
+        -0.0028553386509360523,
+        0.1933076964917465,
+        0.3742490428931022
+      ],
+      "duration_s": 53.4,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029881990946443587,
+      "transport_max_joint_speed_deg_s": 10.146796271172814,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F057",
+      "endpoint_m": [
+        0.05527572833115569,
+        0.20815514343965225,
+        0.36993039104838055
+      ],
+      "duration_s": 51.400000000000006,
+      "horizontal_max_tilt_deg": 1.8250374987380654e-10,
+      "transport_max_speed_m_s": 0.029882218696948796,
+      "transport_max_joint_speed_deg_s": 10.175168641803282,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F058",
+      "endpoint_m": [
+        0.036026977916099906,
+        0.2081551434396621,
+        0.3733327521015531
+      ],
+      "duration_s": 51.599999999999994,
+      "horizontal_max_tilt_deg": 1.6806773035608703e-10,
+      "transport_max_speed_m_s": 0.029878789483605575,
+      "transport_max_joint_speed_deg_s": 10.115138846892888,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F059",
+      "endpoint_m": [
+        0.016482028274223244,
+        0.20815514343966493,
+        0.3736249793654477
+      ],
+      "duration_s": 51.599999999999994,
+      "horizontal_max_tilt_deg": 1.58458255459256e-10,
+      "transport_max_speed_m_s": 0.02990471338190094,
+      "transport_max_joint_speed_deg_s": 10.115138846892888,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F060",
+      "endpoint_m": [
+        -0.002859836388047503,
+        0.20815514343966068,
+        0.37079960776800125
+      ],
+      "duration_s": 51.5,
+      "horizontal_max_tilt_deg": 1.5793104973460708e-10,
+      "transport_max_speed_m_s": 0.029872345884768853,
+      "transport_max_joint_speed_deg_s": 10.144887342265141,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F061",
+      "endpoint_m": [
+        0.03227294337523744,
+        0.14775558135720365,
+        0.3770100210181109
+      ],
+      "duration_s": 58.99999999999999,
+      "horizontal_max_tilt_deg": 1.9857379419963937e-10,
+      "transport_max_speed_m_s": 0.02991202983232349,
+      "transport_max_joint_speed_deg_s": 10.175613944640029,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F062",
+      "endpoint_m": [
+        0.012813857474979796,
+        0.14775558135721237,
+        0.3788632423226641
+      ],
+      "duration_s": 59.3,
+      "horizontal_max_tilt_deg": 1.8735665561088676e-10,
+      "transport_max_speed_m_s": 0.02987206399324588,
+      "transport_max_joint_speed_deg_s": 10.102115930279991,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F063",
+      "endpoint_m": [
+        -0.006691934930005309,
+        0.14775558135721528,
+        0.37759260628867036
+      ],
+      "duration_s": 59.3,
+      "horizontal_max_tilt_deg": 1.7949138765249255e-10,
+      "transport_max_speed_m_s": 0.029933236618430045,
+      "transport_max_joint_speed_deg_s": 10.102115930279991,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F064",
+      "endpoint_m": [
+        -0.02574614992187231,
+        0.14775558135721237,
+        0.3732305718641196
+      ],
+      "duration_s": 59.3,
+      "horizontal_max_tilt_deg": 1.7563958512379307e-10,
+      "transport_max_speed_m_s": 0.02987913684487082,
+      "transport_max_joint_speed_deg_s": 10.102115930279991,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F065",
+      "endpoint_m": [
+        0.03222295901692982,
+        0.16298519217976198,
+        0.3776438660625654
+      ],
+      "duration_s": 57.099999999999994,
+      "horizontal_max_tilt_deg": 1.9872086206307157e-10,
+      "transport_max_speed_m_s": 0.02989842664902202,
+      "transport_max_joint_speed_deg_s": 10.175387967607218,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F066",
+      "endpoint_m": [
+        0.012763873116672153,
+        0.16298519217977078,
+        0.37949708736711824
+      ],
+      "duration_s": 57.4,
+      "horizontal_max_tilt_deg": 1.8746336455136232e-10,
+      "transport_max_speed_m_s": 0.029860569947394507,
+      "transport_max_joint_speed_deg_s": 10.098626626124357,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F067",
+      "endpoint_m": [
+        -0.006741919288312923,
+        0.16298519217977378,
+        0.37822645133312416
+      ],
+      "duration_s": 57.4,
+      "horizontal_max_tilt_deg": 1.795495043253416e-10,
+      "transport_max_speed_m_s": 0.029925288180856345,
+      "transport_max_joint_speed_deg_s": 10.098626626124357,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F068",
+      "endpoint_m": [
+        -0.02579613428017985,
+        0.16298519217977092,
+        0.373864416908573
+      ],
+      "duration_s": 57.4,
+      "horizontal_max_tilt_deg": 1.7564325499070177e-10,
+      "transport_max_speed_m_s": 0.029866600918521845,
+      "transport_max_joint_speed_deg_s": 10.098626626124357,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F069",
+      "endpoint_m": [
+        0.03228078622766198,
+        0.17821031063745105,
+        0.3769105668425483
+      ],
+      "duration_s": 55.2,
+      "horizontal_max_tilt_deg": 1.9880325521314451e-10,
+      "transport_max_speed_m_s": 0.029884411406107286,
+      "transport_max_joint_speed_deg_s": 10.175414355500132,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F070",
+      "endpoint_m": [
+        0.012821700327404276,
+        0.17821031063745987,
+        0.37876378814710077
+      ],
+      "duration_s": 55.4,
+      "horizontal_max_tilt_deg": 1.8752437774450526e-10,
+      "transport_max_speed_m_s": 0.02992685047068506,
+      "transport_max_joint_speed_deg_s": 10.121433885241277,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F071",
+      "endpoint_m": [
+        -0.006684092077580784,
+        0.17821031063746293,
+        0.37749315211310636
+      ],
+      "duration_s": 55.49999999999999,
+      "horizontal_max_tilt_deg": 1.7958292214770513e-10,
+      "transport_max_speed_m_s": 0.029916505054608074,
+      "transport_max_joint_speed_deg_s": 10.094516557496418,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F072",
+      "endpoint_m": [
+        -0.025738307069447634,
+        0.1782103106374601,
+        0.3731311176885549
+      ],
+      "duration_s": 55.49999999999999,
+      "horizontal_max_tilt_deg": 1.7564625535173227e-10,
+      "transport_max_speed_m_s": 0.029853800379697273,
+      "transport_max_joint_speed_deg_s": 10.094516557496418,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F073",
+      "endpoint_m": [
+        0.03244595692311188,
+        0.19330769649162619,
+        0.3748160590735106
+      ],
+      "duration_s": 53.3,
+      "horizontal_max_tilt_deg": 1.9882117297386974e-10,
+      "transport_max_speed_m_s": 0.029870038598967336,
+      "transport_max_joint_speed_deg_s": 10.175137634795279,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F074",
+      "endpoint_m": [
+        0.012986871022854138,
+        0.193307696491635,
+        0.3766692803780628
+      ],
+      "duration_s": 53.49999999999999,
+      "horizontal_max_tilt_deg": 1.8753717411025117e-10,
+      "transport_max_speed_m_s": 0.029916444552624055,
+      "transport_max_joint_speed_deg_s": 10.118295662600422,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F075",
+      "endpoint_m": [
+        -0.006518921382130895,
+        0.19330769649163806,
+        0.37539864434406806
+      ],
+      "duration_s": 53.599999999999994,
+      "horizontal_max_tilt_deg": 1.7959059040919365e-10,
+      "transport_max_speed_m_s": 0.029907311088686415,
+      "transport_max_joint_speed_deg_s": 10.090268744688059,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F076",
+      "endpoint_m": [
+        -0.02557313637399766,
+        0.19330769649163523,
+        0.3710366099195162
+      ],
+      "duration_s": 53.599999999999994,
+      "horizontal_max_tilt_deg": 1.7564747454981748e-10,
+      "transport_max_speed_m_s": 0.029841977672856457,
+      "transport_max_joint_speed_deg_s": 10.090268744688059,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F077",
+      "endpoint_m": [
+        0.03271713412347332,
+        0.20815514343954178,
+        0.37137729681975185
+      ],
+      "duration_s": 51.400000000000006,
+      "horizontal_max_tilt_deg": 1.9877329740346992e-10,
+      "transport_max_speed_m_s": 0.029854754692918796,
+      "transport_max_joint_speed_deg_s": 10.175168641803282,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F078",
+      "endpoint_m": [
+        0.013258048223215543,
+        0.2081551434395506,
+        0.37323051812430363
+      ],
+      "duration_s": 51.599999999999994,
+      "horizontal_max_tilt_deg": 1.8750213914911812e-10,
+      "transport_max_speed_m_s": 0.02990550652091819,
+      "transport_max_joint_speed_deg_s": 10.115138846892888,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F079",
+      "endpoint_m": [
+        -0.006247744181769469,
+        0.20815514343955363,
+        0.3719598820903085
+      ],
+      "duration_s": 51.7,
+      "horizontal_max_tilt_deg": 1.7957114916131805e-10,
+      "transport_max_speed_m_s": 0.02989699764070299,
+      "transport_max_joint_speed_deg_s": 10.08521429573072,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F080",
+      "endpoint_m": [
+        -0.025301959173636153,
+        0.2081551434395508,
+        0.3675978476657563
+      ],
+      "duration_s": 51.7,
+      "horizontal_max_tilt_deg": 1.7564559216029832e-10,
+      "transport_max_speed_m_s": 0.0298305566740231,
+      "transport_max_joint_speed_deg_s": 10.08521429573072,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F081",
+      "endpoint_m": [
+        0.00922215236725682,
+        0.1477555813570908,
+        0.37659602353335564
+      ],
+      "duration_s": 59.099999999999994,
+      "horizontal_max_tilt_deg": 2.1699929528123116e-10,
+      "transport_max_speed_m_s": 0.02991255928645898,
+      "transport_max_joint_speed_deg_s": 10.150916907756535,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F082",
+      "endpoint_m": [
+        -0.010322797274619749,
+        0.1477555813570991,
+        0.37688825079725174
+      ],
+      "duration_s": 59.4,
+      "horizontal_max_tilt_deg": 2.0811681110562466e-10,
+      "transport_max_speed_m_s": 0.029914964724899778,
+      "transport_max_joint_speed_deg_s": 10.078006889071899,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F083",
+      "endpoint_m": [
+        -0.02966466193689076,
+        0.14775558135710284,
+        0.3740628791998066
+      ],
+      "duration_s": 59.599999999999994,
+      "horizontal_max_tilt_deg": 2.0165043255228824e-10,
+      "transport_max_speed_m_s": 0.02987511537447488,
+      "transport_max_joint_speed_deg_s": 10.029902210475232,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F084",
+      "endpoint_m": [
+        -0.048309345306919785,
+        0.14775558135710193,
+        0.36819208408256576
+      ],
+      "duration_s": 59.599999999999994,
+      "horizontal_max_tilt_deg": 1.9800440707314293e-10,
+      "transport_max_speed_m_s": 0.02986340527422679,
+      "transport_max_joint_speed_deg_s": 10.029902210475232,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F085",
+      "endpoint_m": [
+        0.009121674340855684,
+        0.1629851921796489,
+        0.3772238468705079
+      ],
+      "duration_s": 57.2,
+      "horizontal_max_tilt_deg": 2.1713660906484903e-10,
+      "transport_max_speed_m_s": 0.029898199423636973,
+      "transport_max_joint_speed_deg_s": 10.149758476981015,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F086",
+      "endpoint_m": [
+        -0.010423275301020895,
+        0.1629851921796573,
+        0.3775160741344037
+      ],
+      "duration_s": 57.49999999999999,
+      "horizontal_max_tilt_deg": 2.0821580846514932e-10,
+      "transport_max_speed_m_s": 0.029904724924817758,
+      "transport_max_joint_speed_deg_s": 10.073126222572967,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F087",
+      "endpoint_m": [
+        -0.029765139963291866,
+        0.16298519217966106,
+        0.37469070253695824
+      ],
+      "duration_s": 57.7,
+      "horizontal_max_tilt_deg": 2.0170486789421655e-10,
+      "transport_max_speed_m_s": 0.02986346142462233,
+      "transport_max_joint_speed_deg_s": 10.022762274535177,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F088",
+      "endpoint_m": [
+        -0.048409823333320764,
+        0.16298519217966023,
+        0.36881990741971704
+      ],
+      "duration_s": 57.599999999999994,
+      "horizontal_max_tilt_deg": 1.9801167470229513e-10,
+      "transport_max_speed_m_s": 0.029923738490364286,
+      "transport_max_joint_speed_deg_s": 10.048007368803713,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F089",
+      "endpoint_m": [
+        0.009237917985939443,
+        0.1782103106373382,
+        0.3764975142006193
+      ],
+      "duration_s": 55.3,
+      "horizontal_max_tilt_deg": 2.1721428714714819e-10,
+      "transport_max_speed_m_s": 0.029882248735834192,
+      "transport_max_joint_speed_deg_s": 10.148208774273398,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F090",
+      "endpoint_m": [
+        -0.01030703165593714,
+        0.1782103106373466,
+        0.3767897414645146
+      ],
+      "duration_s": 55.599999999999994,
+      "horizontal_max_tilt_deg": 2.082727985828835e-10,
+      "transport_max_speed_m_s": 0.0298924901114847,
+      "transport_max_joint_speed_deg_s": 10.06802312173325,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F091",
+      "endpoint_m": [
+        -0.029648896318208055,
+        0.17821031063735046,
+        0.37396436986706877
+      ],
+      "duration_s": 55.8,
+      "horizontal_max_tilt_deg": 2.0173628404989178e-10,
+      "transport_max_speed_m_s": 0.029850788773348326,
+      "transport_max_joint_speed_deg_s": 10.015173093382481,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F092",
+      "endpoint_m": [
+        -0.04829357968823685,
+        0.17821031063734966,
+        0.3680935747498273
+      ],
+      "duration_s": 55.7,
+      "horizontal_max_tilt_deg": 1.980142153914141e-10,
+      "transport_max_speed_m_s": 0.029913370885248324,
+      "transport_max_joint_speed_deg_s": 10.041389490469207,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F093",
+      "endpoint_m": [
+        0.009569942364373567,
+        0.19330769649151416,
+        0.37442290484816376
+      ],
+      "duration_s": 53.4,
+      "horizontal_max_tilt_deg": 2.172302568992393e-10,
+      "transport_max_speed_m_s": 0.029865714485645165,
+      "transport_max_joint_speed_deg_s": 10.146796271172814,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F094",
+      "endpoint_m": [
+        -0.009975007277503022,
+        0.19330769649152257,
+        0.3747151321120588
+      ],
+      "duration_s": 53.7,
+      "horizontal_max_tilt_deg": 2.082846836279417e-10,
+      "transport_max_speed_m_s": 0.029879411169019144,
+      "transport_max_joint_speed_deg_s": 10.062085228668085,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F095",
+      "endpoint_m": [
+        -0.029316871939773892,
+        0.19330769649152646,
+        0.37188976051461264
+      ],
+      "duration_s": 53.8,
+      "horizontal_max_tilt_deg": 2.017424902931621e-10,
+      "transport_max_speed_m_s": 0.02991965952268677,
+      "transport_max_joint_speed_deg_s": 10.03436755232262,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F096",
+      "endpoint_m": [
+        -0.047961555309802575,
+        0.19330769649152563,
+        0.3660189653973708
+      ],
+      "duration_s": 53.8,
+      "horizontal_max_tilt_deg": 1.9801532095567849e-10,
+      "transport_max_speed_m_s": 0.029903422132193557,
+      "transport_max_joint_speed_deg_s": 10.03436755232262,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F097",
+      "endpoint_m": [
+        0.010115059893545855,
+        0.20815514343943115,
+        0.37101681180903223
+      ],
+      "duration_s": 51.5,
+      "horizontal_max_tilt_deg": 2.1718645308217317e-10,
+      "transport_max_speed_m_s": 0.029847060973519243,
+      "transport_max_joint_speed_deg_s": 10.144887342265141,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F098",
+      "endpoint_m": [
+        -0.009429889748330738,
+        0.20815514343943953,
+        0.3713090390729269
+      ],
+      "duration_s": 51.8,
+      "horizontal_max_tilt_deg": 2.0825190477302157e-10,
+      "transport_max_speed_m_s": 0.029863761562814128,
+      "transport_max_joint_speed_deg_s": 10.055813201616637,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F099",
+      "endpoint_m": [
+        -0.02877175441060155,
+        0.20815514343944336,
+        0.36848366747548034
+      ],
+      "duration_s": 51.900000000000006,
+      "horizontal_max_tilt_deg": 2.0172419371826898e-10,
+      "transport_max_speed_m_s": 0.029909362785983037,
+      "transport_max_joint_speed_deg_s": 10.026239131545259,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    },
+    {
+      "id": "F100",
+      "endpoint_m": [
+        -0.04741643778063013,
+        0.20815514343944255,
+        0.3626128723582381
+      ],
+      "duration_s": 51.900000000000006,
+      "horizontal_max_tilt_deg": 1.9801258258457226e-10,
+      "transport_max_speed_m_s": 0.029895670891775413,
+      "transport_max_joint_speed_deg_s": 10.026239131545259,
+      "scoop_max_tilt_deg": 21.439279812095105,
+      "max_sample_step_rad": 0.029087869473493178,
+      "collision_checked": false,
+      "physical_joint_limits_verified": false
+    }
+  ]
+}

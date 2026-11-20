@@ -1,0 +1,4 @@
+-r ../requirements.txt
+opencv-python-headless>=4.8,<5
+# pyrealsense2 must match the board OS, Python ABI and supported camera SDK.
+# Follow docs/RDK_X5.md; it is deliberately not auto-installed here.

@@ -1,0 +1,2 @@
+# Only depth tests and optional camera path need Python packages.
+numpy>=1.24,<3
